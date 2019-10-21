@@ -47,7 +47,11 @@ article.post img {
   width: 100%; }
 
 .cus-1 {
-  overflow: hidden; }
+  margin-right: 0;
+  padding-right: 0; }
+
+.cus-1 .card {
+  margin-bottom: 10px; }
 
 .cus-1 img {
   width: 100%;
@@ -120,3 +124,8 @@ article.post img {
   list-style: none;
   display: inline-block;
   text-align: left; }
+
+.ft-one {
+  border: 1px solid  black;
+  padding: 10px;
+  margin-bottom: 10px; }
