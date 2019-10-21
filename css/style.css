@@ -108,3 +108,11 @@ footer ul li a {
 
 article.post img {
   width: 100%; }
+
+.meta ul {
+  padding: 0; }
+
+.meta ul li {
+  list-style: none;
+  display: inline-block;
+  text-align: left; }
